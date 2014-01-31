@@ -1,3 +1,6 @@
 #main-table {
   background-image: url(https://raw2.github.com/chrisgedrim/mob-dev-jenkins/master/images/jenkins.png) !important;
 }
+#top-panel {
+  background: #969;
+}
